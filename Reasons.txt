@@ -1,0 +1,2 @@
+The license that we chose was one that was open source. We chose it since it would allow others to reuse our code, but there are still restrictions to it that would not allow for complete free reign. 
+We also went with a code of conduct that was very well detailed in its rules, and outlined the procedures it would use in order to determine any punishment or who is at fault. It is best to have everything outlined so that there is no grey areas that can be left for interpretation. 
